@@ -10,7 +10,7 @@ Xây dựng một nền tảng quản lý và đọc truyện chữ trực tuy�
 
 Light Novel Web Management là hệ thống web hỗ trợ quản lý truyện chữ (light novel) với các chức năng dành cho cả người dùng và quản trị viên. Dự án tập trung vào trải nghiệm người dùng, bảo mật thông tin, và khả năng mở rộng để đáp ứng nhu cầu cộng đồng yêu thích truyện chữ.
 
-## Những điểm chính nổi bật
+## Những tính năng nổi bật
 
 - Quản lý truyện và chương: Cho phép thêm, sửa, xóa truyện và chương một cách linh hoạt.
 - Tương tác cộng đồng: Người dùng có thể bình luận, phản hồi, đánh giá truyện, like/dislike bình luận.
@@ -18,6 +18,22 @@ Light Novel Web Management là hệ thống web hỗ trợ quản lý truyện c
 - Tìm kiếm thông minh: Hỗ trợ tìm kiếm truyện theo tên, thể loại, tác giả.
 - Giao diện hiện đại: Thiết kế responsive, hỗ trợ chế độ tối, tối ưu cho nhiều thiết bị.
 - Dễ dàng triển khai: Hướng dẫn cài đặt chi tiết, dễ sử dụng cho cả người phát triển và người dùng
+
+## Mục đích
+
+Sản phẩm được xây dựng nhằm giải quyết nhu cầu quản lý và đọc truyện chữ trực tuyến của người dùng Việt Nam, đồng thời giúp nhóm phát triển luyện tập sử dụng các kỹ thuật web, quản lý cơ sở dữ liệu và tối ưu trải nghiệm người dùng.
+
+## Giải thích
+
+Light Novel Web Management cho phép người dùng đăng ký, đăng nhập, tìm kiếm và đọc truyện chữ. Quản trị viên có thể thêm, sửa, xóa truyện và chương, quản lý người dùng, kiểm duyệt bình luận. Người dùng có thể đánh giá truyện, bình luận, phản hồi, like/dislike bình luận, giúp tăng tương tác cộng đồng.
+
+## Điểm đặc biệt
+
+- Nhóm đã tiến hành khảo sát, phỏng vấn người dùng để lấy feedback và cải thiện sản phẩm.
+- Đã kiểm tra kỹ lưỡng tất cả các chức năng để đảm bảo sự thống nhất về UI/UX và trải nghiệm mượt mà.
+- Đầu tư vào thiết kế giao diện hiện đại, hỗ trợ responsive và chế độ tối.
+- Tối ưu bảo mật, phân quyền rõ ràng giữa người dùng và quản trị viên.
+- Hệ thống tìm kiếm thông minh, dễ sử dụng, giúp người dùng nhanh chóng tìm được truyện yêu thích.
 
 ## Tính năng chính
 
